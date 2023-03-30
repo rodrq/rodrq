@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a backend and data engineer student.
+#I enjoy backend and data engineering. 
